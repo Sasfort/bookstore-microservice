@@ -1,0 +1,10 @@
+com\sasfort\bookservice\BookServiceApplication.class
+com\sasfort\bookservice\controllers\BookController.class
+com\sasfort\bookservice\dto\BookResponse$BookResponseBuilder.class
+com\sasfort\bookservice\dto\BookResponse.class
+com\sasfort\bookservice\repositories\BookRepository.class
+com\sasfort\bookservice\models\Book$BookBuilder.class
+com\sasfort\bookservice\services\BookService.class
+com\sasfort\bookservice\dto\BookRequest$BookRequestBuilder.class
+com\sasfort\bookservice\dto\BookRequest.class
+com\sasfort\bookservice\models\Book.class

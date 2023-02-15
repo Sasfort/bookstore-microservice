@@ -1,0 +1,7 @@
+D:\MandiriAssignment\microservices\book-service\src\main\java\com\sasfort\bookservice\controllers\BookController.java
+D:\MandiriAssignment\microservices\book-service\src\main\java\com\sasfort\bookservice\models\Book.java
+D:\MandiriAssignment\microservices\book-service\src\main\java\com\sasfort\bookservice\BookServiceApplication.java
+D:\MandiriAssignment\microservices\book-service\src\main\java\com\sasfort\bookservice\repositories\BookRepository.java
+D:\MandiriAssignment\microservices\book-service\src\main\java\com\sasfort\bookservice\dto\BookRequest.java
+D:\MandiriAssignment\microservices\book-service\src\main\java\com\sasfort\bookservice\services\BookService.java
+D:\MandiriAssignment\microservices\book-service\src\main\java\com\sasfort\bookservice\dto\BookResponse.java

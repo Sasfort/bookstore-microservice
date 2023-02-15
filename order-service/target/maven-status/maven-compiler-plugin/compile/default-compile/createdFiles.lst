@@ -1,0 +1,9 @@
+com\sasfort\orderservice\services\OrderService.class
+com\sasfort\orderservice\controllers\OrderController.class
+com\sasfort\orderservice\OrderServiceApplication.class
+com\sasfort\orderservice\dto\OrderRequest.class
+com\sasfort\orderservice\dto\OrderResponse.class
+com\sasfort\orderservice\models\Order.class
+com\sasfort\orderservice\models\Order$OrderBuilder.class
+com\sasfort\orderservice\dto\OrderResponse$OrderResponseBuilder.class
+com\sasfort\orderservice\repositories\OrderRepository.class
